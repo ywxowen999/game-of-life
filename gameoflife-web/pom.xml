@@ -120,6 +120,8 @@
             <groupId>com.wakaleo.gameoflife</groupId>
             <artifactId>gameoflife-core</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <scope>system</scope>
+            <systemPath>/Users/benjamin/Jenkins/workspace/game-of-life-default/gameoflife-core/target/gameoflife-core-1.0-SNAPSHOT.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
